@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Wendy Releases Repository</name>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>//http://52.15.57.28:8081/repository/Awesomegod-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wendy snaphot repo </name>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
 	      <url>//http://52.15.57.28:8081/repository/Awesome-god-snapshot/</url>
 	    </snapshotRepository>
 	    
